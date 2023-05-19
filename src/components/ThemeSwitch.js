@@ -11,6 +11,7 @@ const ThemeSwitch = () => {
 
   return (
     <div className={`theme-container ${theme}`}>
+      <h4>mode</h4>
       {theme === "dark" ? (
         <svg
           xmlns="http://www.w3.org/2000/svg"

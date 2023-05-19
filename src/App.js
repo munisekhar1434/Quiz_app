@@ -10,15 +10,15 @@ export default function App() {
     <div className={`home-container ${theme}-home-container ${theme}`}>
       <ThemeSwitch />
       <div className="welcome-window">
-        <h1>Welcome to the Challenge!</h1>
-        <h2>You will be presented with 3 MCQs.</h2>
-        <p>Can you score 100%?</p>
+        <h1>Welcome to Quiz!</h1>
+        <h2> presented with 3 MCQs.</h2>
+        <p>Can you score 100% ?</p>
         <button
           onClick={() => {
             navigate("/quiz");
           }}
         >
-          Start quiz!
+          Start challenge!
         </button>
       </div>
     </div>
