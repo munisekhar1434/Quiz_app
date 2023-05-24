@@ -39,7 +39,3 @@ This application was built using the following technologies:
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please create an issue or submit a pull request.
-
-## Acknowledgements
-
-This app was built as a assignment by Vishal Rajput
